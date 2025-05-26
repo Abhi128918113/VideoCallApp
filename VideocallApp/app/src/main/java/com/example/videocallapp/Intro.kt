@@ -68,6 +68,5 @@ class Intro : AppCompatActivity() {
                 finish()
             }
         }
-
     }
 }
